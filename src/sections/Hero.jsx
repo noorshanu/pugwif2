@@ -15,13 +15,7 @@ function Hero() {
 
           <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
-              <a
-                href="https://raydium.io/"
-                target="_blank"
-                className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
-              >
-                Trade
-              </a>
+           
             </div>
             <div className=" relative">
               <a
