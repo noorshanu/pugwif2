@@ -19,7 +19,7 @@ function Hero() {
             </div>
             <div className=" relative">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/4pHGvggF5zic26Ve7gfHaMVCAB54KaTQed9nUfkGuA8q?t=1711228130843"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/CQkXghxSsndkQx4CoN5VhjbrtibRpoTYYUtEWyCj1YAq?t=1711267574247"
                 target="_blank"
                 className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
               >
@@ -34,10 +34,10 @@ function Hero() {
         <div className="  mt-4 sm:mt-0">
           <h1 className=" text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">
             {" "}
-            PugWIF is Making Solana meme world adorable with its charm and charisma{" "}
+            Become the part of DogeWIF family and let's chase our dreams together!
           </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl mx-auto">
-          The ultimate meme coin on Solana, led by our charismatic PugWIF, the true dog leader of the meme community. With irresistible charm and honest intentions, hearts are won and investors wooed left, right, and center.
+          Hey there, fellow dog lovers and crypto enthusiasts! 🐶🌈⛑️ DogeWIF – the coolest dog on Solana with a rainbow hat, is all about memes, speed, and having a blast in the crypto world! Get ready for a wild ride with the cutest coins in town!
           </p>
             <p className="text-[#000000] text-xl my-3 font-bold">
             Contract Address 
