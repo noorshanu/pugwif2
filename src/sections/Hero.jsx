@@ -42,8 +42,8 @@ function Hero() {
             <p className="text-[#000000] text-xl my-3 font-bold">
             Contract Address 
             </p>
-          <a href="https://solscan.io/token/FcAtfMxrSqkDkTukKT77QMabd5H7EQV2kh2vzGuzt5qS" target="_blank" className="max-w-3xl  text-[#000000] text-xl mx-auto  font-bold">
-          FcAtfMxrSqkDkTukKT77QMabd5H7EQV2kh2vzGuzt5qS
+          <a href="https://solscan.io/token/4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu" target="_blank" className="max-w-3xl  text-[#000000] text-xl mx-auto  font-bold">
+          4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu
           </a>
 
           <div className="hidden sm:flex items-center gap-5 justify-center  mt-4">
