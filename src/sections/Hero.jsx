@@ -47,11 +47,11 @@ function Hero() {
           </a>
 
           <div className="hidden sm:flex items-center gap-5 justify-center  mt-4">
-            <a href="https://t.me/pugwif" target="_blank">
+            <a href="https://t.me/dogewifs" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
             </a>
 
-            <a href="https://x.com/Pug_wif" target="_blank">
+            <a href="https://twitter.com/DogeWIF_" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[55px]" />
             </a>
           </div>
