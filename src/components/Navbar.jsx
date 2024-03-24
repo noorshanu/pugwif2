@@ -15,7 +15,7 @@ function Navbar() {
         <div className="container-wrapper border-none sm:border-2 border-[#fff] bg-black h-14 lg:h-[5rem] 2xl:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center">
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
             <a
-              href="https://t.me/pugwif"
+              href="https://t.me/dogewifs"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base uppercase"
             >
@@ -38,12 +38,12 @@ function Navbar() {
           >
           
           <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/pugwif" target="_blank">
+             <a href="https://t.me/dogewifs" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
              </a>
          
 
-             <a href="https://x.com/Pug_wif" target="_blank">
+             <a href="https://twitter.com/DogeWIF_" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
@@ -52,7 +52,7 @@ function Navbar() {
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
          
             <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/4pHGvggF5zic26Ve7gfHaMVCAB54KaTQed9nUfkGuA8q?t=1711228130843"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/CQkXghxSsndkQx4CoN5VhjbrtibRpoTYYUtEWyCj1YAq?t=1711267574247"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm xl:text-base uppercase"
             >
