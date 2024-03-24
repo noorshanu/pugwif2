@@ -62,7 +62,7 @@ function JoinCommunity() {
 
         <div className="flex  items-center justify-center ">
           <p className="text-center text-sm  font-bold text-white">
-            All rights reserved | by DOGERACE 2023-24
+            All rights reserved | by PugWif 2023-24
           </p>
         </div>
       </div>
