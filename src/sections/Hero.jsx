@@ -19,7 +19,7 @@ function Hero() {
             </div>
             <div className=" relative">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/CQkXghxSsndkQx4CoN5VhjbrtibRpoTYYUtEWyCj1YAq?t=1711267574247"
+                href="https://www.dextools.io/"
                 target="_blank"
                 className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
               >
@@ -34,24 +34,24 @@ function Hero() {
         <div className="  mt-4 sm:mt-0">
           <h1 className=" text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">
             {" "}
-            Become the part of DogeWIF family and let's chase our dreams together!
+            Become the part of PuppyPug family and let's chase our dreams together!
           </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl mx-auto">
-          Hey there, fellow dog lovers and crypto enthusiasts! 🐶🌈⛑️ DogeWIF – the coolest dog on Solana with a rainbow hat, is all about memes, speed, and having a blast in the crypto world! Get ready for a wild ride with the cutest coins in town!
+          Hey there, fellow dog lovers and crypto enthusiasts! 🐶🌈⛑️ PuppyPug – the coolest dog on Solana with a rainbow hat, is all about memes, speed, and having a blast in the crypto world! Get ready for a wild ride with the cutest coins in town!
           </p>
             <p className="text-[#000000] text-xl my-3 font-bold">
             Contract Address 
             </p>
-          <a href="https://solscan.io/token/4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu" target="_blank" className="max-w-3xl  text-[#000000] text-xl mx-auto  font-bold">
-          4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu
+          <a href="https://solscan.io" target="_blank" className="max-w-3xl  text-[#000000] text-xl mx-auto  font-bold">
+          4WV2aySGezXy6TkZpTVzu
           </a>
 
           <div className="hidden sm:flex items-center gap-5 justify-center  mt-4">
-            <a href="https://t.me/dogewifs" target="_blank">
+            <a href="https://t.me/puppypug" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
             </a>
 
-            <a href="https://twitter.com/DogeWIF_" target="_blank">
+            <a href="http://twitter.com/puppypugg" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[55px]" />
             </a>
           </div>
