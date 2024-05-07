@@ -32,7 +32,7 @@ function Hero() {
           Hey there, fellow dog lovers and crypto enthusiasts! 🐶🌈⛑️ PuppyPug – the coolest dog on Solana with a rainbow hat, is all about memes, speed, and having a blast in the crypto world! Get ready for a wild ride with the cutest coins in town!
           </p>
             <p className="text-[#000000] text-xl my-3 font-bold">
-            Contract Address 
+            Contract Address :
             </p>
           <a href="https://solscan.io" target="_blank" className="max-w-3xl  text-[#000000] text-xl mx-auto  font-bold">
           4WV2aySGezXy6TkZpTVzu
