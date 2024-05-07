@@ -17,15 +17,7 @@ function Hero() {
             <div className=" relative">
            
             </div>
-            <div className=" relative">
-              <a
-                href="https://www.dextools.io/"
-                target="_blank"
-                className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
-              >
-            DexTools
-              </a>
-            </div>
+       
           </div>
         </div>
         <div className=" flex   sm:hidden  justify-center items-center  mt-7 sm:mt-8">
@@ -46,7 +38,16 @@ function Hero() {
           4WV2aySGezXy6TkZpTVzu
           </a>
 
-          <div className="hidden sm:flex items-center gap-5 justify-center  mt-4">
+          <div className="hidden sm:flex items-center gap-5 justify-start  mt-4">
+          <div className=" relative">
+              <a
+                href="https://www.dextools.io/"
+                target="_blank"
+                className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
+              >
+            DexTools
+              </a>
+            </div>
             <a href="https://t.me/puppypug" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
             </a>
